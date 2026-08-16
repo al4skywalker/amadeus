@@ -1,6 +1,6 @@
 # The Amadeus Project: Theoretical Foundation
 
-[![DOI](https://zenodo.org/badge/DOI/BURAYA_ZENODO_LINKIN_GELECEK.svg)](https://doi.org/BURAYA_ZENODO_LINKIN_GELECEK)
+[![DOI](https://zenodo.org/badge/1247462510.svg)](https://doi.org/10.5281/zenodo.21966271)
 
 **Author:** S. Furkan A. (al4skywalker)  
 **Version:** 1.0 (August 2026)
